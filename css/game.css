@@ -1,0 +1,49 @@
+html, body, ul, li {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  width: 762;
+  margin: 0 auto;
+  
+}
+
+p {
+  text-align:end;
+}
+
+body {
+  overflow: hidden;
+  height: 100%;
+  background-color: rgb(1, 1, 17);
+}
+
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+.info {
+  position: absolute;
+  top: 700px;
+  left: 700px;
+  color: rgb(193, 196, 18);
+  font-size: 35px;
+}
+.info-1 {
+  position: absolute;
+  top: 100px;
+  left: 430px;
+  color: rgb(170, 24, 24);
+  font-size: 50px;
+}
+.info-2 {
+  position: absolute;
+  top: 100px;
+  left: 1330px;
+  color: rgb(170, 24, 24);
+  font-size: 50px;
+}
